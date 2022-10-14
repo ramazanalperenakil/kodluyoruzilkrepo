@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 
 
-![github](figures/github.png)
+![github](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 
 
 
@@ -20,7 +20,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ```bash
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/ramazanalperenakil/kodluyoruzilkrepo.git
 
 ```
 
